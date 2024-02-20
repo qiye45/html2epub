@@ -1,6 +1,8 @@
 # HTML网页转化电子书工具
 把HTML网页合成电子书，支持文件排序、替换，智能划分大文件的章节，支持图片下载，txt等常用文件导入到电子书。
+
 ![image](https://github.com/qiye45/html2epub/assets/138199658/052627d1-336b-4ef2-b456-9d6d57ff2b43)
+
 **注意：使用前需要安装pandoc，下载链接：https://pandoc.org/installing.html**
 
 2.2版本：适配微信文章的图片，修复图片太大的问题
