@@ -103,6 +103,7 @@
         }else{
           _.BadJs.onError(createError(BADJS_WIN_ERR, event.message, event.filename, event.lineno, event.colno, event.error));
         }
+        console.log(123)
       },
       init: function(uin, mid, view) {
         this.uin = uin || this.uin;
